@@ -2,22 +2,6 @@
 
 本仓库用于存放《AI赋能软件测试》企业内训课程资料。
 
-## 目录结构
-
-```text
-ai-assisted-software-testing/
-└─ 02-requirement-review-and-test-point-design/
-   ├─ slides/
-   │  └─ ai-assisted-requirement-review-testing-points.pptx
-   └─ learner-pack/
-      ├─ 00-deliverables-list.md
-      ├─ 01-ai-requirement-review-checklist.md
-      ├─ 02-test-point-prompt-template.md
-      ├─ 03-functional-testcase-generation-template.md
-      ├─ 04-coupon-test-point-matrix-example.md
-      └─ 05-requirement-questions-risk-list-example.md
-```
-
 </div>
 
 
