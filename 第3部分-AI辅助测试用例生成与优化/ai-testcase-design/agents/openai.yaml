@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI辅助测试用例设计"
+  short_description: "按规则拆解、测试方法和遗漏检查生成高质量用例"
+  default_prompt: "Use $ai-testcase-design to turn this requirement into a reviewed, prioritized test case design package."
+
