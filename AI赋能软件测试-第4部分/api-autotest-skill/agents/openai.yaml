@@ -1,0 +1,4 @@
+interface:
+  display_name: "接口自动化测试流程复用"
+  short_description: "从接口文档到 pytest 脚本的标准化接口测试资产生成流程"
+  default_prompt: "Use $api-autotest-skill to turn this API information into a complete interface test asset package including test point matrix, parameterized case data, pytest+requests script, and manual review checklist."
