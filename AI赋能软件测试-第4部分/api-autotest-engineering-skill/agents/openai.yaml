@@ -1,0 +1,4 @@
+interface:
+  display_name: "接口自动化测试工程化"
+  short_description: "分析现有自动化工程并生成符合项目规范的接口自动化测试资产"
+  default_prompt: "Use $api-autotest-engineering-skill to analyze the current automation framework, learn project conventions, and generate enterprise-grade API automation test artifacts from curl, Swagger, Postman, Apifox, API docs, or existing code. Do not generate standalone demo code without first aligning to the project architecture."
