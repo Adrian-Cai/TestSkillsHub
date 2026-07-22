@@ -2,3 +2,4 @@
 Thumbs.db
 ~$*.pptx
 *.tmp
+.venv
