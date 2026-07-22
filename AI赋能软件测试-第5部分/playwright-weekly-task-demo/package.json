@@ -2,8 +2,9 @@
   "name": "playwright-weekly-task-demo",
   "version": "1.0.0",
   "private": true,
-  "description": "Playwright demo: create a weekly Monday scheduled task on autotest.wiac.xyz",
+  "description": "UI automation demo for creating a weekly Monday scheduled task.",
   "scripts": {
+    "install:browsers": "playwright install chromium",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug",
@@ -11,6 +12,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.54.0",
+    "@types/node": "^24.0.15",
     "dotenv": "^17.2.0",
     "typescript": "^5.8.3"
   }
